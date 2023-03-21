@@ -1,0 +1,130 @@
+# Gems ?
+
+- [ ] Spiritfarer
+- [ ] Coffee Talk
+- [ ] Hades
+- [ ] Ori and the will of the wisps
+- [ ] Abzu
+- [ ] Celeste
+- [ ] Subnautica
+- [ ] Kentucky Route Zero
+- [ ] Disco Elysium
+- [ ] Terraria
+- [ ] Gris
+- [ ] The Pathless
+- [ ] The Painscreek Killings
+- [ ] Outer Wilds
+- [ ] Night in the Woods
+- [ ] Primordia
+- [ ] FAR: Changing Tides
+- [ ] Hollow Knight
+- [ ] Layers of Fear (1 & 2)
+- [ ] The Hand of Glory
+- [ ] Star Traders: Frontiers
+- [ ] Starbound
+- [ ] Stardew Valley
+- [ ] Broken Sword
+- [ ] Sunless Sea
+- [ ] If On A Winter's Night, Four Travelers
+- [ ] Outward
+- [ ] Pathologic 2
+- [ ] Unexplored 2
+- [ ] I Am Setsuna
+- [ ] Papetura
+- [ ] Oxenfree
+- [ ] Bastion
+- [ ] Afterparty
+- [ ] Darkside detective
+- [ ] Broken Age
+- [ ] Overboard!
+- [ ] Sorcery!
+- [ ] Call of the Sea
+- [ ] ENDERLILIES
+- [ ] Lust Epidemic
+- [ ] The Messenger
+- [ ] Not Another Weekend
+- [ ] Gunpoint
+- [ ] Close To The Sun
+- [ ] Detroit Become Human
+- [ ] Wildermyth
+- [ ] Myst
+- [ ] Riven
+- [ ] Obduction
+- [ ] The Signifier: Director's Cut
+- [ ] Zork
+- [ ] Lost at Sea
+- [ ] Callahan's Crosstime Saloon
+- [ ] FAR: Lone Sails
+- [ ] Death's Door
+- [ ] The Ascent
+- [ ] Genesis Noir
+- [ ] Trine (1 & 2)
+- [ ] The Technomancer
+- [ ] Svoboda 1945: Liberation
+- [ ] Persona 5
+- [ ] Almost My Floor
+- [ ] Horror: Scratches, Personal Nightmare, Sanitarium
+- [ ] The Knight is Grey
+- [ ] Sable
+- [ ] The MISSING
+- [ ] Deadly Premonition
+- [ ] Gamedec
+- [ ] Before Your Eyes
+- [ ] The Captain
+- [ ] The Great Ace Attorney Chronicles
+- [ ] Sifu
+- [ ] Obduction
+- [ ] Master of Orion 2
+- [ ] The Pandora Directive
+- [ ] Triangle Strategy
+- [ ] Fire Emblem
+- [ ] Deliver Us The Moon
+- [ ] Black Dahlia
+- [ ] To The Moon
+- [ ] Martha Is Dead
+- [ ] Papers, Please
+- [ ] Children of Morta
+- [ ] Tunic
+- [ ] Guard Duty
+- [ ] Stray Gods
+- [ ] Thimbleweed Park
+- [ ] Primordia
+- [ ] Unavowed
+- [ ] Snatcher
+- [ ] Full Throttle
+- [ ] Citizen Sleeper
+- [ ] Eternal Threads
+- [ ] Old Skies
+- [ ] Unavowed
+- [ ] Cloudpunk
+- [ ] Nivalis
+- [ ] NetHack
+- [ ] Moons of Madness
+- [ ] Drakensang: The Dark Eye
+- [ ] Citizen Sleeper
+- [ ] Mothmen 1966
+- [ ] Spec Ops: The Line
+- [ ] Elm Knight
+- [ ] Pentiment
+- [ ] South of the Circle
+- [ ] Dredge
+- [ ] Pacific Drive
+- [ ] Haven
+- [ ] Moonbreaker
+- [ ] Return to Monkey Island
+- [ ] Gedonia
+- [ ] Encodya
+- [ ] The Excavation of Hob's Barrow
+- [ ] Immortality
+- [ ] Forgotton Anne
+- [ ] Faith: The Unholy Trinity
+- [ ] RollerDrone
+- [ ] A Space for the Unbound
+- [ ] Adios
+- [ ] Deliver Us The Moon
+- [ ] Deliver Us Mars
+- [ ] Rakuen
+- [x] Journey
+- [x] Norco
+- [x] Firewatch
+- [x] Inscryption
