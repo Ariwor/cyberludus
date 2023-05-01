@@ -107,7 +107,7 @@
 - [ ] Elm Knight
 - [ ] Pentiment
 - [ ] South of the Circle
-- [ ] Dredge
+- [x] Dredge
 - [ ] Pacific Drive
 - [ ] Haven
 - [ ] Moonbreaker
