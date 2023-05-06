@@ -128,3 +128,4 @@
 - [x] Norco
 - [x] Firewatch
 - [x] Inscryption
+- [ ] Tchia
