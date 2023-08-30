@@ -130,3 +130,4 @@
 - [x] Inscryption
 - [ ] Tchia
 - [ ] Loop8: Summer of Gods
+- [ ] Sea of Stars
